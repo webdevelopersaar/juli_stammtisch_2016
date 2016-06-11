@@ -5,6 +5,10 @@
 
 ## themen
 
+Geplant: 
+  - DevSetup & Tools
+  - Welche <tags> sind die richtigen?
+
  **Vortrag** 
  
  

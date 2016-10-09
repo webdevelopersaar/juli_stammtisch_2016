@@ -17,6 +17,6 @@
 
 ## buzzwords und links
 
-**Weblinks
+**Weblinks**
 
 * https://vimeo.com/102809096
